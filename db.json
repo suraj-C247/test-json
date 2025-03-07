@@ -2,9 +2,9 @@
   "events": [
     {
       "id": "1",
-      "title": "Music Concert 🎵",
-      "start": "2025-03-06T18:00:00",
-      "end": "2025-03-06T21:00:00",
+      "event_title": "Music Concert 🎵",
+      "event_start": "2025-03-06T18:00:00",
+      "event_end": "2025-03-06T21:00:00",
       "category": "Music",
       "brand": "Sony",
       "status": "Active",
@@ -13,9 +13,9 @@
     },
     {
       "id": "2",
-      "title": "Tech Conference 💻",
-      "start": "2025-03-14T09:00:00",
-      "end": "2025-03-14T12:30:00",
+      "event_title": "Tech Conference 💻",
+      "event_start": "2025-03-14T09:00:00",
+      "event_end": "2025-03-14T12:30:00",
       "category": "Conference",
       "brand": "Google",
       "status": "Upcoming",
