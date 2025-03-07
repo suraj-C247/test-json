@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Music Concert 🎵",
+      "start": "2025-03-06T18:00:00",
+      "end": "2025-03-06T21:00:00",
+      "category": "Music",
+      "brand": "Sony",
+      "status": "Active",
+      "image": "https://media.istockphoto.com/id/974238866/photo/audience-listens-to-the-lecturer-at-the-conference.jpg?s=612x612&w=0&k=20&c=p_BQCJWRQQtZYnQlOtZMzTjeB_csic8OofTCAKLwT0M=",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": "2",
+      "title": "Tech Conference 💻",
+      "start": "2025-03-14T09:00:00",
+      "end": "2025-03-14T12:30:00",
+      "category": "Conference",
+      "brand": "Google",
+      "status": "Upcoming",
+      "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZXZlbnR8ZW58MHx8MHx8fDA%3D",
+      "location": "San Francisco, CA"
+    }
+  ]
+}
+
